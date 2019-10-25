@@ -1,0 +1,11 @@
+*~
+.DS_Store
+.vscode
+temp
+build
+local
+temp/RemovedMetas
+temp/BackupAssets
+temp/quick-scripts
+
+
